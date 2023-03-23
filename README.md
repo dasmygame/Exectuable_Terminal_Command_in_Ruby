@@ -7,6 +7,8 @@ Simply download files to desktop and run following commands:
 cd favorite_color/bin
 
 ./fav-color
+
+./fav-color enter_your_favorite_color_here
 ```
 
 [![Screen-Shot-2023-03-23-at-3-38-44-PM.png](https://i.postimg.cc/xCW888Lm/Screen-Shot-2023-03-23-at-3-38-44-PM.png)](https://postimg.cc/S2fktyTQ)
